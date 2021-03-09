@@ -1,0 +1,37 @@
+Data ONTAP:NetApp Release Bluepaddle__9.7.0: Wed Oct 16 10:10:36 UTC 2019
+
+Browser: FF,GC
+
+OS: Win 10/Win 2K12 SC
+
+SM build version= mainN_191016_1301
+
+
+
+Launch 9.7 Application
+Go to Dashboard
+Go to Storage> Storage VMS 
+Create SVM without protocol
+Select the created SVM.
+Click SVM Settings
+Go to Export Policies
+Click Add
+
+
+
+Verify export policy is created successfully
+Verify all the localization checkpoints in the UI
+
+Launch 97. Applications
+
+Goto Cluster > Settings
+
+Goto users and roles card
+
+Click on arrow button top of the  users and roles card
+
+
+
+Verify all the localization points in the UI
+
+Verify users and roles page
